@@ -65,12 +65,3 @@ now run the app
 	meteor
 
 
-## Example
-
-to run the example:
-	cd example
-	mrt add modal-login
-	
-and the run the example
-
-	meteor
