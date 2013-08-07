@@ -39,6 +39,14 @@ update `myapp.html` file
 		{{> hello}}
 	</body>
 
+	//optional: add viewport in the <head> for mobile devices
+	<head>
+		<title>MyApp</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+
+
+
 update `myapp.js` file
 
 	//old code
